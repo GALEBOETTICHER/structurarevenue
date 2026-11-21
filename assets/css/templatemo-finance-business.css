@@ -33,7 +33,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 a.filled-button {
-	background-color: #a4c639;
+	background-color: #B58B5A;
 	color: #fff;
 	font-size: 13px;
 	text-transform: uppercase;
@@ -80,7 +80,7 @@ a.border-button:hover {
 
 .section-heading em {
 	font-style: normal;
-	color: #a4c639;
+	color: #B58B5A;
 }
 
 .section-heading span {
@@ -174,7 +174,7 @@ a.border-button:hover {
 /* Sub Header Style */
 
 .sub-header {
-	background-color: #a4c639;
+	background-color: #172E36;
 	height: 46px;
 	line-height: 46px;
 }
@@ -255,7 +255,7 @@ header .navbar {
 	box-shadow: 0px 1px 10px rgba(0,0,0,0.1);
 }
 .background-header .navbar-brand h2 {
-	color: #a4c639!important;
+	color: #B58B5A!important;
 }
 .background-header .navbar-nav a.nav-link {
 	color: #1e1e1e!important;
@@ -265,7 +265,7 @@ header .navbar {
 .background-header .navbar-nav .nav-link.current,
 .background-header .navbar-nav .nav-link.show,
 .background-header .navbar-nav .show>.nav-link {
-	color: #a4c639!important;
+	color: #B58B5A!important;
 }
 .navbar .navbar-brand {
 	float: 	left;
@@ -309,8 +309,8 @@ header .navbar {
 .navbar .navbar-nav .nav-link.current,
 .navbar .navbar-nav .nav-link.show,
 .navbar .navbar-nav .show>.nav-link {
-	color: #a4c639;
-	border-bottom: 3px solid #a4c639;
+	color: #B58B5A;
+	border-bottom: 3px solid #B58B5A;
 }
 .navbar .navbar-toggler-icon {
 	background-image: none;
@@ -455,7 +455,7 @@ ul.slick-dots {
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 1px;
-  color:#a4c639;
+  color: #B58B5A;
   animation:fadeOutRight 1s both;
 }
 
@@ -522,7 +522,7 @@ ul.slick-dots {
 /* Request Form */
 
 .request-form {
-	background-color: #a4c639;
+	background-color: #B58B5A;
 	padding: 40px 0px;
 	color: #fff;
 }
@@ -606,7 +606,7 @@ ul.slick-dots {
 
 .fun-facts em {
 	font-style: normal;
-	color: #a4c639;
+	color: #B58B5A;
 }
 
 .fun-facts p {
@@ -627,7 +627,7 @@ ul.slick-dots {
 
 .count-digit {
     margin: 5px 0px;
-    color: #a4c639;
+    color: #B58B5A;
     font-weight: 700;
     font-size: 36px;
 }
@@ -685,7 +685,7 @@ ul.slick-dots {
 
 .more-info .right-content em {
 	font-style: normal;
-	color: #a4c639;
+	color: #B58B5A;
 }
 
 .more-info .right-content p {
@@ -726,7 +726,7 @@ ul.slick-dots {
 	margin-top: 8px;
 	font-weight: 600;
 	font-size: 14px;
-	color: #a4c639;
+	color: #B58B5A;
 }
 .testimonial-item img {
 	max-width: 60px;
@@ -759,7 +759,7 @@ ul.slick-dots {
 }
 
 .callback-form .contact-form {
-	background-color: #a4c639;
+	background-color: #172E36;
 	padding: 60px;
 	border-radius: 5px;
 	text-align: center;
@@ -1010,7 +1010,7 @@ footer .contact-form ::placeholder {
 footer .contact-form button.filled-button {
 	background-color: transparent;
 	color: #fff;
-	background-color: #a4c639;
+	background-color: #B58B5A;
 	border: none;
 	font-size: 13px;
 	text-transform: uppercase;
