@@ -1071,7 +1071,7 @@ footer .contact-form button.filled-button:hover {
 
 .page-heading span {
 	font-size: 15px;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	letter-spacing: 1px;
 	color: #fff;
 	display: block;
@@ -1140,9 +1140,9 @@ footer .contact-form button.filled-button:hover {
 	width: 100%;
 	padding: 30px 30px;
 	display: inline-block;
-	background-color: #a4c639;
+	background-color: #172E36;
   	font-size: 20px;
-  	color: #121212;
+  	color: #ffffff;
   	letter-spacing: 0.5px;
   	font-weight: 700;
   	transition: all 0.3s;
