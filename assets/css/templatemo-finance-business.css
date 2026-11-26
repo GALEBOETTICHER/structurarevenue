@@ -1105,7 +1105,7 @@ footer .contact-form button.filled-button:hover {
 }
 
 .team-item .down-content span {
-	color: #a4c639;
+	color: #B58B5A;
 	font-weight: 600;
 	font-size: 14px;
 	display: block;
@@ -1158,7 +1158,7 @@ footer .contact-form button.filled-button:hover {
   border-bottom: none;
 }
 #tabs ul .ui-tabs-active a {
-  color: #fff;
+  color: #B58B5A;
 }
 #tabs ul .ui-tabs-active span {
   color: #1e1e1e;
